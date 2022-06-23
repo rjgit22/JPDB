@@ -9,9 +9,9 @@ JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoS
 
 ### Benefits of using JsonPowerDB -
 
-1.Simplest way to retrieve data in a JSON format.
-2.Schema-free, Simple to use, Nimble and In-Memory database.
-3.It helps developers in faster coding, in-turn reduces development cost.
++ * Simplest way to retrieve data in a JSON format.
++ * Schema-free, Simple to use, Nimble and In-Memory database.
++ * It helps developers in faster coding, in-turn reduces development cost.
 
 #### Glimpse of Data Base-
 
