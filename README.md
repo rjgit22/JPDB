@@ -14,7 +14,7 @@ JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoS
 * It helps developers in faster coding, in-turn reduces development cost.
 * Can be integrated with any dyanamic website or mobile app.
 
-#### Glimpse of Data Base-
+#### Glimpse of JsonPowerDB-
 
 ![JSON2](https://user-images.githubusercontent.com/82431916/175254458-7ea4bc9e-e2f8-4bfa-88cd-3faa40bcec7f.PNG)
 
